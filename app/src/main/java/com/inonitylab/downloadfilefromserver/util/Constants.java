@@ -5,4 +5,5 @@ package com.inonitylab.downloadfilefromserver.util;
  */
 
 public class Constants {
+    public static final String BASE_URL = "http://dropbox.sandbox2000.com/";
 }
